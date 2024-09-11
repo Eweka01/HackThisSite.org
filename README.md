@@ -1,6 +1,5 @@
 # HackThisSite.org
 
-# HackThisSite.Org Missions
 I started working through these missions in 2022 before returning to them in
 2024 and really trying to understand the concepts. The missions now are a bit
 dated – they were originally created in the early 2000s – but it's not hard
