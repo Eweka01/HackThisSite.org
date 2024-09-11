@@ -18,19 +18,19 @@ and web security.
 
 
 ### Command Injection
-* [Basic Mission 7]
-* [Basic Mission 8]
-* [Basic Mission 9]
+* [Basic Mission 7](https://github.com/Eweka01/HackThisSite.org/blob/main/basic/mission_07.md)
+* [Basic Mission 8](https://github.com/Eweka01/HackThisSite.org/blob/main/basic/mission_08.md)
+* [Basic Mission 9](https://github.com/Eweka01/HackThisSite.org/blob/main/basic/mission_09.md)
 
 ### Cookie Tampering
-* [Basic Mission 10]
+* [Basic Mission 10](https://github.com/Eweka01/HackThisSite.org/blob/main/basic/mission_10.md)
 
 ### Directory Traversal
-* [Basic Mission 9]
-* [Basic Mission 11]
+* [Basic Mission 9](https://github.com/Eweka01/HackThisSite.org/blob/main/basic/mission_09.md)
+* [Basic Mission 11](https://github.com/Eweka01/HackThisSite.org/blob/main/basic/mission_11.md)
 
 ### Decryption
-* [Basic Mission 6]
+* [Basic Mission 6](https://github.com/Eweka01/HackThisSite.org/blob/main/basic/mission_06.md)
 
 ### HTML Tampering
 * [Basic Mission 4](https://github.com/Eweka01/HackThisSite.org/blob/main/basic/missions_01-05.md)
