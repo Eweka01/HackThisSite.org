@@ -33,7 +33,7 @@ and web security.
 * [Basic Mission 6]
 
 ### HTML Tampering
-* [Basic Mission 4]
-* [Basic Mission 5]
+* [Basic Mission 4](https://github.com/Eweka01/HackThisSite.org/blob/main/basic/missions_01-05.md)
+* [Basic Mission 5](https://github.com/Eweka01/HackThisSite.org/blob/main/basic/missions_01-05.md)
   
 
