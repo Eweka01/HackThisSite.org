@@ -1,11 +1,6 @@
 # HackThisSite.org
 
-I started working through these missions in 2022 before returning to them in
-2024 and really trying to understand the concepts. The missions now are a bit
-dated – they were originally created in the early 2000s – but it's not hard
-to think about how concepts and web technologies have changed since then. So,
-I think these missions were still useful to learn basic ideas behind hacking
-and web security.
+I first started working on these missions in 2022 and revisited them in 2024 with a stronger emphasis on grasping the fundamental concepts. Although some challenges may seem a bit outdated, having been designed in the early 2000s, they remain a solid introduction to hacking basics and web security. The missions illustrate how web technologies and security flaws have changed over time, making them valuable for learning foundational ideas that are still relevant today.
 
 ## Index of Key Concepts
 
